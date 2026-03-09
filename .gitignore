@@ -1,0 +1,33 @@
+# Compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorio de salida del compilador
+bin/
+out/
+build/
+target/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+.settings/
+.project
+.classpath
+.factorypath
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
